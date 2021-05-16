@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Stack
+.stack-work/
