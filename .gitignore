@@ -3,6 +3,7 @@
 
 # IntelliJ IDEA
 .idea/
+out/
 *.ipr
 *.iml
 *.iws
